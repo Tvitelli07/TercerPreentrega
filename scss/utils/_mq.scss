@@ -1,0 +1,66 @@
+@media (max-width: 700px) {
+    /*estilos para dispositivos móviles*/
+    
+        body{
+            #fotos-inicio{
+                
+            }
+        }
+        
+        body{
+            .aca{
+                display: none;
+            }
+            }
+        
+
+        body{
+            .referencia{
+                display: none;
+            }
+        }
+
+        body{
+            .desaparecen{
+                display: none;
+            }
+        }
+
+        body{
+            .desaparecent{
+                display: none;
+            }
+        }
+
+        body{
+            .queda{
+                width: 500px;
+            }
+        }
+
+        body{
+            .tambien{
+                display: none;
+            }
+        }
+
+       
+        *{
+            text-align: center;
+        }
+    }
+  
+  /* Estilos para tablets */ 
+  @media (min-width: 701px) and (max-width: 1024px) {
+    
+    *{
+        text-align: center;
+    }
+    
+    .desaparecent{
+        display: none;
+    }
+
+    
+    
+}

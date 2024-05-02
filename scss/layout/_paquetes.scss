@@ -1,0 +1,35 @@
+@import "utils/mixin" ;
+section{
+    p{
+        text-align: left;
+        
+    }
+}
+
+header{
+    h1{
+        @include titulos
+    }
+}
+
+.oferta{
+    @include fotos
+}
+section{
+    
+        #aclaracion{
+            text-align: center;
+            margin: 15px;
+        
+        }
+    
+}
+
+
+.cpaquete{
+        text-align: center;
+        .enviar{
+            font-size: 25px;
+        }
+}
+

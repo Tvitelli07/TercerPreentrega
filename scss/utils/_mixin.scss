@@ -1,0 +1,16 @@
+@mixin fotos{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+@mixin titulos{
+    background-color: $color-principal;
+    padding: 10px;
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+

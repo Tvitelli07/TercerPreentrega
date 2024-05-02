@@ -1,0 +1,50 @@
+
+    #contacto{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+
+.formulario{
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: end
+    }
+
+div{
+    fieldset{
+        form{
+          
+                p{
+                    background-color: lightgray
+                }
+            
+        }
+    }
+}
+
+.boton{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+div{
+    form{
+        input{
+            font-size: 25px;
+        }
+    }
+}
+
+div{
+    form{
+        select{
+           
+                font-size: 25px;
+            
+        }
+    }
+}
